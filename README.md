@@ -1,5 +1,5 @@
 # ReceiptParser
-Itexus web service for receipts validating and parsing
+Web service for receipts validating and parsing
 
 ## Usage
 Use 2 routes:
